@@ -27,7 +27,4 @@ Thumbs.db
 .idea/
 .spyproject/
 
-# Ignore generated plots
-*.png
-*.jpg
-*.jpeg
+
