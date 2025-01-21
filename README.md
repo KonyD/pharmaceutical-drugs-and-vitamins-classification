@@ -59,7 +59,7 @@ The dataset used in this project can be accessed [here](https://www.kaggle.com/d
 3. Run the script:
 
 ```bash
-python classification_script.py
+python main.py
 ```
 
 ## Model Architecture
