@@ -37,11 +37,11 @@ The dataset is structured as follows:
 Drug Vision/Data Combined/
     ├── Alaxan/
     │   ├── 00000005.jpg
-    │   ├── 00000006.png
+    │   ├── 00000006.jpg
     │   └── ...
     ├── Bactidol/
     │   ├── 00000000.jpg
-    │   ├── 00000001.png
+    │   ├── 00000001.jpg
     │   └── ...
     └── ...
 ```
