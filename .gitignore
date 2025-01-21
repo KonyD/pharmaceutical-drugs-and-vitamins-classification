@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment folders
+.env/
+venv/
+
+# Ignore dataset and output files
+Drug Vision/Data Combined/
+*.h5
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
+.spyproject/
+
+# Ignore generated plots
+*.png
+*.jpg
+*.jpeg
